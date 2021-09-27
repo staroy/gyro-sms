@@ -51,7 +51,7 @@ Rectangle {
     color: "transparent"
     property alias transferHeight1: pageRoot.height
     property alias transferHeight2: advancedLayout.height
-    property int mixin: 1  // (ring size 11)
+    //property int mixin: 1  // (ring size 11)
     property string warningContent: ""
     property string sendButtonWarning: {
         // Currently opened wallet is not view-only
