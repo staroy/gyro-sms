@@ -88,6 +88,9 @@ bool DaemonManager::start(const QString &flags, NetworkType::Type nettype, const
         arguments << "--data-dir" << dataDir;
     }
 
+    arguments << "--add-peer" << "188.120.236.67";
+    arguments << "--add-peer" << "62.109.21.129";
+
     // Bootstrap node address
     if(!bootstrapNodeAddress.isEmpty()) {
         arguments << "--bootstrap-daemon-address" << bootstrapNodeAddress;
