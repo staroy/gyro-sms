@@ -99,6 +99,9 @@ bool DaemonManager::start(const QString &flags, NetworkType::Type nettype, const
 
     arguments << "--check-updates" << "disabled";
 
+    arguments << "--add-peer" << "188.120.236.67";
+    arguments << "--add-peer" << "62.109.21.129";
+
     // --max-concurrency based on threads available.
     int32_t concurrency = qMax(1, QThread::idealThreadCount() / 2);
 
