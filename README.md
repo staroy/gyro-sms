@@ -15,11 +15,14 @@ apt install build-essential cmake git pkg-config libssl-dev libzmq3-dev libczmq-
 ```
 ./gyro-sms-release.sh
 ```
+Screenshots:
 
+SMS:
 ![SMS](https://staroy.github.io/wallet-sms.png)
 
+Transfer:
 ![Pay](https://staroy.github.io/wallet-transfer.png)
 
-Bitcoin: **bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27**
+Donate bitcoin: **bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27**
 
 ![BitCoin](https://staroy.github.io/bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27.png)
