@@ -409,9 +409,9 @@ Rectangle {
 
             GyroComponents.StandardButton {
                 small: true
-                text: qsTr("Donate to Monero") + translationManager.emptyString
+                text: qsTr("Donate to GyroLab") + translationManager.emptyString
                 onClicked: {
-                    middlePanel.sendTo("888tNkZrPN6JsEgekjMnABU4TBzc2Dt29EPAvkRxbANsAnjyPbb3iQ1YBRk1UXcdRsiKc9dhwMVgN5S9cQUiyoogDavup3H", "", "Donation to Monero Core Team");
+                    middlePanel.sendTo("CwUg254RpDHQUzEUUw5QV51oxHAEjhtMkf5LwuCKCdmjbwSvJgeDAv7MuATMemSjck3hCtAY2WgAyhwx3wGVEj2yHALZjAm", "", "Donation to GyroLab");
                 }
             }
         }
