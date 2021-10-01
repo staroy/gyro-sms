@@ -25,6 +25,8 @@ Transfer:
 
 ![Pay](https://staroy.github.io/wallet-transfer.png)
 
-Donate btc: **bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27**
+Donate:
+
+BTC **bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27**
 
 ![BitCoin](https://staroy.github.io/bc1q3nqrakqnsf967qu7rpydwf32fgyypms44pgm27.png)
